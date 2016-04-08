@@ -4,4 +4,5 @@
 * [First Chapter](chapter1.md)
 * [Info](info.md)
 * [Triggers](triggers.md)
+* Pages
 
