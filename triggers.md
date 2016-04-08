@@ -15,6 +15,6 @@ Define what triggers the guide to begin.
 **[Pages](https://dnnsharp.gitbooks.io/info-box/content/pages.html)** - The guide will start when the user visits one of the pages defined in this list.
 <br/>
 <br/>
-**Conditions** - List of conditions that when met will trigger the guide to start.
+**[Conditions](https://dnnsharp.gitbooks.io/info-box/content/conditions.html)** - List of conditions that when met will trigger the guide to start.
 <br/>
 <br/>
