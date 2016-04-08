@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [Installation](installation.md)
-* [Creating your first Guide (not ready)](creating_your_first_guide.md)
+* [Creating your first Guide](creating_your_first_guide.md)
 * [Info](info.md)
 * [Triggers](triggers.md)
    * [Pages](pages.md)
