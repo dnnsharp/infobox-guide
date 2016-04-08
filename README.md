@@ -1,6 +1,6 @@
 # InfoBox Official Documentation
 
-**What is InfoBox?![](info-box-400x400t.png)
+**What is InfoBox?```<div allign="right">```![](info-box-400x400t.png)
 **
 InfoBox creates digital walkthroughs on your DNN portal improving the user experience and providing personalized guidance.
 Besides, you will benefit from our excellent support and quick response for implementing your feature requests.
