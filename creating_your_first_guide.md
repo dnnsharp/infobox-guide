@@ -57,5 +57,7 @@ For more info about this, see [Step Menu](http://infobox.guide.dnnsharp.com/step
 
 To see more info about this, see our [Buttons Page](http://infobox.guide.dnnsharp.com/buttons.html) .
 
+![](2016-rtrt04-08_1747.png)
+
 **Congratulations**! Your new Guide is all set and ready to go.
-![](2016-04-08_1747.png)
+
