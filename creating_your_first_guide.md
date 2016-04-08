@@ -42,7 +42,7 @@ Using conditions you can set the Guide to be displayed only to specific people.
 
 **Step 5 - Adding Step(s):
 **
-**Note:** We strongly recommend to create/modify the Steps using Interactive Mode, this way you can select an area from a page where the InfoBox should be displayed and all modifications made in the panel will be displayed in real time.
+**</br>Note:** We strongly recommend to create/modify the Steps using Interactive Mode, this way you can select an area from a page where the InfoBox should be displayed and all modifications made in the panel will be displayed in real time.
 
 In order to start adding steps, you need to click on the Guide already created, and click on the "Add Step" button.
 
