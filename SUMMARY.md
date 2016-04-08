@@ -5,5 +5,5 @@
 * [Info](info.md)
 * [Triggers](triggers.md)
    * [Pages](pages.md)
-* Conditions
+* [Conditions](conditions.md)
 
