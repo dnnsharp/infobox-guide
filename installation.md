@@ -1,6 +1,6 @@
 # Installation
 
-How to Install InfoBox
+On this page you can find a complete guide on how to Install InfoBox
 
 You can download the latest version from InfoBox Download Page. While you are on that page, you can also check the changelog to see what's new.
 
