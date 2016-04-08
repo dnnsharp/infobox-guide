@@ -17,9 +17,7 @@ Create digital walkthroughs on your DNN portal improving the user experience and
 * 
 **Increased Sales and Conversions** by delivering personalized user assistance, through offers and help, InfoBox improves the shopping experience whilst increasing conversions and decreasing cart abandonment
 * 
-**Reduced Customer Support Costs** - InfoBox delivers intuitive self-service across your DNN portal by means of guided walkthroughs to reduce the amount of customer service inquiries
-For other unique and technical features, click here.
-
+**Reduced Customer Support Costs** - InfoBox delivers intuitive self-service across your DNN portal by means of guided walkthroughs to reduce the amount of customer service inquiries.
 
 **Requirements
 **
