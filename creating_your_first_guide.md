@@ -30,6 +30,27 @@ For more info about this step, see [Triggers Page](http://infobox.guide.dnnsharp
 
 For more info about this step, see [Page Menu](https://dnnsharp.gitbooks.io/info-box/content/pages.html) .
 
-*** Step 4 - Adding Condition(s) :
+*** Step 4 - Adding Condition(s) (optional) :
 **
 ![](2016-04-08_1726.png)
+Using conditions you can set the Guide to be displayed only to specific people.
+
+
+
+**Step 5 - Adding Step(s):
+**
+**Note:** We strongly recommend to create/modify the Steps using Interactive Mode, this way you can select an area from a page where the InfoBox should be displayed and all modifications made in the panel will be displayed in real time.
+
+In order to start adding steps, you need to click on the Guide already created, and click on the "Add Step" button.
+
+![](2016-04-08_1731.png)
+
+For more info about this, see [Step Menu](http://infobox.guide.dnnsharp.com/steps.html) .
+
+**Step 6 - Adding Buttons:**
+
+![](2016-04-08_1734.png)
+
+To see more info about this, see our [Buttons Page](http://infobox.guide.dnnsharp.com/buttons.html) .
+
+**Congratulations**! Your new Guide is all set and ready to go.
