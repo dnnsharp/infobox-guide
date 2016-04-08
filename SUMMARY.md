@@ -8,5 +8,5 @@
    * [Conditions](conditions.md)
 * [Steps](steps.md)
 * [F.A.Q](faq.md)
-* Installation
+* [Installation](installation.md)
 
