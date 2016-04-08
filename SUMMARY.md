@@ -7,5 +7,5 @@
    * [Pages](pages.md)
    * [Conditions](conditions.md)
 * [Steps](steps.md)
-* [Tutorials](faq.md)
+* [F.A.Q](faq.md)
 
