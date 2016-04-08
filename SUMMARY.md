@@ -10,5 +10,4 @@
 * [Steps](steps.md)
 * [F.A.Q](faq.md)
 * [Buttons](buttons.md)
-* Buttons
 
