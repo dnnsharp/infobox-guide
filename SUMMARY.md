@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * [Installation](installation.md)
 * [Creating your first Guide (not ready)](creating_your_first_guide.md)
-* [First Chapter](chapter1.md)
 * [Info](info.md)
 * [Triggers](triggers.md)
    * [Pages](pages.md)
