@@ -21,3 +21,6 @@ Configure buttons that are shown on the set step. <br/>
 
 **Icon** - displays an icon on the button.<br/>
 ![](icon.png)
+<br/>
+<br/>
+**Actions** that are executed when the button is clicked.
