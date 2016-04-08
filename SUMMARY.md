@@ -9,6 +9,6 @@
    * [Conditions](conditions.md)
 * [Steps](steps.md)
 * [F.A.Q](faq.md)
-* Buttons
+* [Buttons](buttons.md)
 * Buttons
 
