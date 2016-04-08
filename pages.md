@@ -1,6 +1,6 @@
 # Pages
 
-**Select a Portal Page** - trigger the guide to start. This field supports [My Tokens](http://www.dnnsharp.com/dnn/modules/my-custom-tokens).
+**Select a Portal Page** - trigger the guide to start. 
 If you are in Interactive Mode click on Use the current Page button to automatically populate the page dropdown. 
 <br/>
 <br/>
