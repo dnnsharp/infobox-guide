@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Installation](installation.md)
+* [Creating your first Guide](creating_your_first_guide.md)
 * [First Chapter](chapter1.md)
 * [Info](info.md)
 * [Triggers](triggers.md)
@@ -10,5 +11,4 @@
 * [Steps](steps.md)
 * [Buttons](buttons.md)
 * [F.A.Q](faq.md)
-
 
