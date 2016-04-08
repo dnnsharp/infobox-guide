@@ -19,8 +19,9 @@ Once this module is placed inside a page, you can start adding your first Guide 
 * Is Enabled: If this box is ticked, the Guide will be enabled to public view ;
 * Enforce workflow: Here we have 4 available options. For more info, see the [Info Page](http://infobox.guide.dnnsharp.com/info.html) . 
 
-Step 2 - Adding a trigger:
 
+**Step 2 - Adding a trigger:
+**
 ![](kjk.jpg)
 For more info about this step, see [Triggers Page](http://infobox.guide.dnnsharp.com/triggers.html) .
 
