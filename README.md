@@ -30,6 +30,6 @@ For other unique and technical features, click here.
 * Support
 
 
-Our support staff is friendly and always available to help you. Engage us on our community platform.
+Our support staff is friendly and always available to help you. Engage us on our [community platform](http://www.dnnsharp.com/support).
 
-You can download latest version of InfoBox from www.dnnsharp.com. 
+You can download latest version of InfoBox from [HERE](http://www.dnnsharp.com/dnn/modules/infobox/download). 
