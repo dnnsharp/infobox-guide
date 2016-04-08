@@ -13,19 +13,11 @@ InfoBox creates digital walkthroughs on your DNN portal improving the user exper
 **Key Benefits
 **
 * 
-Enhanced User Experience
-
-Simplify the information overload and improve the user experience by providing users with a personal online concierge that guides them through your portal
-
+**Enhanced User Experience**. Simplify the information overload and improve the user experience by providing users with a personal online concierge that guides them through your portal
 * 
-Increased Sales and Conversions
-
-By delivering personalized user assistance, through offers and help, InfoBox improves the shopping experience whilst increasing conversions and decreasing cart abandonment
-
+**Increased Sales and Conversions** by delivering personalized user assistance, through offers and help, InfoBox improves the shopping experience whilst increasing conversions and decreasing cart abandonment
 * 
-Reduced Customer Support Costs
-
-InfoBox delivers intuitive self-service across your DNN portal by means of guided walkthroughs to reduce the amount of customer service inquiries
+**Reduced Customer Support Costs** - InfoBox delivers intuitive self-service across your DNN portal by means of guided walkthroughs to reduce the amount of customer service inquiries
 For other unique and technical features, click here.
 
 
