@@ -3,10 +3,10 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [Info](info.md)
+* [Installation](installation.md)
 * [Triggers](triggers.md)
    * [Pages](pages.md)
    * [Conditions](conditions.md)
 * [Steps](steps.md)
 * [F.A.Q](faq.md)
-* [Installation](installation.md)
 
