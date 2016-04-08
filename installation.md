@@ -28,8 +28,11 @@ avt.InfoBox -  with this you can create Guides for all your pages
 avt.InfoBox.GuideMenu - used to open your created Guides
 In the steps below, we are going to show you how to add InfoBox on a page.
 
-1. When the page you work on is opened, select the Modules option from the top menu, click on the Add New Module option
-2.Find avt.InfoBox and with Drag&Drop option add the module to your page
-3. Now you have installed InfoBox Module on your page
+1. 
+When the page you work on is opened, select the Modules option from the top menu, click on the Add New Module option
+2. 
+3. 
+Find avt.InfoBox and with Drag&Drop option add the module to your page
+Now you have installed InfoBox Module on your page
 
 Important: Note that you will need to unlock the 30 Day trial or Activate for Production before you are able to see this screen. 
