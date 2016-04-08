@@ -33,4 +33,4 @@ In the steps below, we are going to show you how to add InfoBox on a page.
 3. Now you have installed InfoBox Module on your page .
 
 
-Important: Note that you will need to unlock the 30 Day trial or Activate for Production before you are able to see this screen. 
+**Important**: Note that you will need to unlock the 30 Day trial or Activate for Production before you are able to see this screen. 
