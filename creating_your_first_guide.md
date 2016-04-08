@@ -11,4 +11,25 @@ Once this module is placed inside a page, you can start adding your first Guide 
 
 
 **Step 1 - Creating a Guide:
-**In order to create a guide for the first time, we need to 
+**In order to create a guide for the first time, you need to go to the page where the InfoBox module was created. Once there, click "New Guide". 
+![](2016-04-08_1709.png)
+
+* Title: The title for the Guide we want to create (Will not be public) ;
+* Description: A description of the Guid (Optional) (Will not be public) ;
+* Is Enabled: If this box is ticked, the Guide will be enabled to public view ;
+* Enforce workflow: Here we have 4 available options. For more info, see the [Info Page](http://infobox.guide.dnnsharp.com/info.html) . 
+
+Step 2 - Adding a trigger:
+
+![](kjk.jpg)
+For more info about this step, see [Triggers Page](http://infobox.guide.dnnsharp.com/triggers.html) .
+
+**Step 3 - Adding page(s) to the Guide:
+**
+![](sdfsd.jpg)
+
+For more info about this step, see [Page Menu](https://dnnsharp.gitbooks.io/info-box/content/pages.html) .
+
+*** Step 4 - Adding Condition(s) :
+**
+![](2016-04-08_1726.png)
