@@ -10,5 +10,5 @@
 * [Steps](steps.md)
 * [Buttons](buttons.md)
 * [F.A.Q](faq.md)
-* Reports
+* [Reports](reports.md)
 
