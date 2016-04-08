@@ -6,5 +6,5 @@
 * [Triggers](triggers.md)
    * [Pages](pages.md)
    * [Conditions](conditions.md)
-* Steps
+* [Steps](steps.md)
 
