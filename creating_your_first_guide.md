@@ -25,11 +25,13 @@ Once this module is placed inside a page, you can start adding your first Guide 
 ![](kjk.jpg)
 For more info about this step, see [Triggers Page](http://infobox.guide.dnnsharp.com/triggers.html) .
 
+
 **Step 3 - Adding page(s) to the Guide:
 **
 ![](sdfsd.jpg)
 
 For more info about this step, see [Page Menu](https://dnnsharp.gitbooks.io/info-box/content/pages.html) .
+
 
 *** Step 4 - Adding Condition(s) (optional) :
 **
