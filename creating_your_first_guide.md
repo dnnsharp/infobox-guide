@@ -59,5 +59,6 @@ To see more info about this, see our [Buttons Page](http://infobox.guide.dnnshar
 
 ![](2016-rtrt04-08_1747.png)
 
+
 **Congratulations**! Your new Guide is all set and ready to go.
 
