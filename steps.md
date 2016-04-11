@@ -1,11 +1,9 @@
 # Steps
 <br/>
 **Select a Portal Page** - displays the step when the guide is triggered to start. If you are in Interactive Mode click on Use the current Page button to automatically populate the page dropdown. 
-<br/>
-<br/>
+
 **QueryString** - refers to URL parameters that will be appended in URL when arriving to this step. This field supports [My Tokens](http://www.dnnsharp.com/dnn/modules/my-custom-tokens).
-<br/>
-<br/>
+
 **DOM Element** - used to point and click on the element to attach to the step's tooltip. 
 <br/>
 <br/>
