@@ -9,7 +9,7 @@
    * [Conditions](conditions.md)
 * [Steps](steps.md)
 * [Buttons](buttons.md)
-  * Actions
+   * [Actions](actions.md)
 * [Reports](reports.md)
 * [F.A.Q (not even started)](faq.md)
 
