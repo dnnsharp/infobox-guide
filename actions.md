@@ -1,3 +1,4 @@
+{% include "./header.md" %}
 # Actions
 
 You can set actions for buttons just as for any other DNN Sharp module. 
