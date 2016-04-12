@@ -1,3 +1,4 @@
+{% include "./header.md" %}
 # Pages
 <br/>
 **Select a Portal Page** - trigger the guide to start. <br/>
