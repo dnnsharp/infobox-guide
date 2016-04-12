@@ -1,3 +1,4 @@
+{% include "./header.md" %}
 # Installation
 
 On this page you can find a complete guide on how to Install InfoBox
