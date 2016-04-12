@@ -1,3 +1,4 @@
+{% include "./header.md" %}
 # Triggers 
 
 Define what triggers the guide to begin. 
