@@ -1,4 +1,3 @@
-<button href="google.ro"></button>
 # InfoBox Official Documentation
 
 **What is InfoBox?**![](info-box-400x400t.png)
