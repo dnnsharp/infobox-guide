@@ -10,7 +10,7 @@
     color: #FFF;
     padding: 8px 12px;
     text-decoration: none;">Download Trial</a>
-    <a href="http://store.dnnsoftware.com/home/product-details/infobox-10-engaging-walkthroughs-builder-for-dnn/r/840a964d512b4073bb2f" style="    -webkit-border-radius: 4px;
+    <a href="http://store.dnnsoftware.com/home/product-details/infobox-11-engaging-walkthroughs-builder-for-dnn/r/840a964d512b4073bb2f" style="    -webkit-border-radius: 4px;
     -moz-border-radius: 4px;
     border-radius: 4px;
     border: solid 1px #20538D;
