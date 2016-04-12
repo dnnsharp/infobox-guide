@@ -1,3 +1,4 @@
+{% include "./header.md" %}
 # Reports
 
 Info Box saves information every step the user takes. These are saved in DnnSharp_InfoBox_History table.<br/>
