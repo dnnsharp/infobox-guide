@@ -1,3 +1,4 @@
+{% include "./header.md" %}
 # F.A.Q
 
 
