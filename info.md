@@ -1,3 +1,4 @@
+{% include "./header.md" %}
 # Info
 
 **Title** - Title is only displayed in the list of Guides. Find meaningful titles that reflect what the guide does.
