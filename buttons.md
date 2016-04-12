@@ -1,3 +1,4 @@
+{% include "./header.md" %}
 # Buttons
 Configure buttons shown on the set step. <br/>
 
