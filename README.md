@@ -22,7 +22,7 @@ Create digital walkthroughs on your DNN portal improving the user experience and
 
 **Requirements
 **
-* DNN 5.5+
+* DNN 6.0+
 * SQL Server 2005+ 
 * ASP.NET 4.0+
 * IIS 6.0+
