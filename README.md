@@ -1,3 +1,4 @@
+{% include "./header.md" %}
 # InfoBox Official Documentation
 
 **What is InfoBox?**![](info-box-400x400t.png)
