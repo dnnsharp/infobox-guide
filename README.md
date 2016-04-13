@@ -2,9 +2,9 @@
 # InfoBox Official Documentation
 
 **What is InfoBox?**![](info-box-400x400t.png)
-<br>
+**
 InfoBox creates digital walkthroughs on your DNN portal improving the user experience and providing personalized guidance.
-Besides, you will benefit from our excellent support and quick response for implementing your feature requests.</br>
+Besides, you will benefit from our excellent support and quick response for implementing your feature requests.**
 
 InfoBox drives user engagement and improve the customer journey with guided walkthroughs that are seamlessly layered on your DNN portal with no code change. 
 
