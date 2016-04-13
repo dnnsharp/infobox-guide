@@ -2,7 +2,7 @@
 # F.A.Q
 
 Q:Is there a trial version available?
-A:Yes. You can download the InfoBox 30 day free trial from: http://www.dnnsharp.com/dnn/modules/infobox/download . The trial version is identical to the full version, except for the time limitations.
+**A:Yes. You can download the InfoBox 30 day free trial from: http://www.dnnsharp.com/dnn/modules/infobox/download . The trial version is identical to the full version, except for the time limitations.**
 
 Q:Can I extend my trial?
 A:No, but for outstanding situations, please email us at sales@dnnsharp.com.
