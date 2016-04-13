@@ -16,7 +16,10 @@ Q:I’ve hired a developer to work on my site. Who should buy the license?
 
 You can purchase an InfoBox license under your own name and then give the developer the license key for the site. That way, you retain control of your own module purchase in the event that you need access or decide to switch developers.</p>
 
-Q:Can I use InfoBox to build and distribute applications?
+
+### Q:Can I use InfoBox to build and distribute applications?
+
+
 <p>A:You can integrate and distribute InfoBox with your own products, but it should not be main functionality, it shoud be added value, and should not be in competition with our existing product. If we go into competition later, the developer will still be allowed to use the version he owns at that time, and continue to develop it, but will not receive new updates.</p>
 
 Q:Can I have one instance for dev, staging and live?
