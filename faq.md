@@ -1,8 +1,9 @@
 {% include "./header.md" %}
 # F.A.Q
 
-**Q:Is there a trial version available?
-**<p>A:Yes. You can download the InfoBox 30 day free trial from: http://www.dnnsharp.com/dnn/modules/infobox/download . The trial version is identical to the full version, except for the time limitations.</p>
+
+### Q:Is there a trial version available?
+A:Yes. You can download the InfoBox 30 day free trial from: http://www.dnnsharp.com/dnn/modules/infobox/download . The trial version is identical to the full version, except for the time limitations.
 
 
 **Q:Can I extend my trial?
@@ -11,7 +12,10 @@
 **Q:Will I lose the settings I make during the trial when I buy?
 **<p><A:Absolutely not. You just need to use for activation the registration key received via email after the purchase was made.</p>
 
-Q:I’ve hired a developer to work on my site. Who should buy the license?
+
+### Q:I’ve hired a developer to work on my site. Who should buy the license?
+
+
 <p>A:You should. It is always best for you, the site owner, to have access to your account on dnnsharp.com. That’s how you access downloads, license keys, and support.
 
 You can purchase an InfoBox license under your own name and then give the developer the license key for the site. That way, you retain control of your own module purchase in the event that you need access or decide to switch developers.</p>
