@@ -1,16 +1,14 @@
 {% include "./header.md" %}
 # F.A.Q
 
-
 ### Is there a trial version available?
-A:Yes. You can download the InfoBox 30 day free trial from: http://www.dnnsharp.com/dnn/modules/infobox/download . The trial version is identical to the full version, except for the time limitations.
+Yes. You can download the InfoBox 30 day free trial from: http://www.dnnsharp.com/dnn/modules/infobox/download . The trial version is identical to the full version, except for the time limitations.
 
 ### Can I extend my trial?
-A:No, but for outstanding situations, please email us at sales@dnnsharp.com.
+No, but for outstanding situations, please email us at sales@dnnsharp.com.
 
 ### Will I lose the settings I make during the trial when I buy?
-
-A:Absolutely not. You just need to use for activation the registration key received via email after the purchase was made.
+Absolutely not. You just need to use for activation the registration key received via email after the purchase was made.
 
 ### I’ve hired a developer to work on my site. Who should buy the license?
 You should. It is always best for you, the site owner, to have access to your account on dnnsharp.com. That’s how you access downloads, license keys, and support.
@@ -25,10 +23,8 @@ Yes, but please contact us at sales@dnnsharp.com.
 ### Can the license be transferred?
 Yes, but only if there is a transfer of ownership of the entire product.
 
-
 ### Can I upgrade to different license type later?
 Yes, you can upgrade to a higher tier (and more value-packed) license for just the price difference in qualifying purchases made within the past 3 months. If your purchase was made more than 3 months ago, don’t worry, we still have a special offer for you. Just email us at sales@dnnsharp.com.
-
 
 ### If I upgrade my DNN version, do I need to also upgrade the module?
 It's recommended because we test and optimize for new versions. Sometimes, new DNN version also breaks our modules so then you'll be required to upgrade. It's recommended to upgrade all at once to optimize the Q&A costs.
