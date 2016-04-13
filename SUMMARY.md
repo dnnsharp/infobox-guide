@@ -11,5 +11,5 @@
 * [Buttons](buttons.md)
    * [Actions](actions.md)
 * [Reports](reports.md)
-* [F.A.Q (not even started)](faq.md)
+* [F.A.Q](faq.md)
 
