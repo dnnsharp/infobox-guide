@@ -13,7 +13,7 @@ Define what triggers the guide to begin.
 **Disable on finished guide** - Disable the trigger if the guide has been finished by the user.
 <br/>
 <br/>
-**[Pages](https://dnnsharp.gitbooks.io/info-box/content/pages.html)** - The guide will start when the user visits one of the pages defined in this list.
+**[Pages](../pages.html)** - The guide will start when the user visits one of the pages defined in this list.
 <br/>
 <br/>
 **[Conditions](https://dnnsharp.gitbooks.io/info-box/content/conditions.html)** - List of conditions that when met will trigger the guide to start.
